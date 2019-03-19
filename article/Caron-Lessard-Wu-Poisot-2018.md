@@ -17,17 +17,17 @@ Address:
 Contact:
   - timothee.poisot@umontreal.ca
 Editor:
-  - Name Surname
+  - Pierre de Buyl
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Christopher Rackauckas
+  - Joseph Stachelek
 Publication:
-  received:  Sep,  1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  Jun, 9, 2018
+  accepted:  Mar, 13, 2019
+  published: Mar, 19, 2019
+  volume:    "**5**"
   issue:     "**1**"
-  date:      Sep 2015
+  date:      March 2019
   number: 1
 Repository:
   article:   "https://github.com/BIO6032/2018_replication_hassell_1985/article"
