@@ -30,8 +30,8 @@ Publication:
   date:      March 2019
   number: 1
 Repository:
-  article:   "https://github.com/BIO6032/2018_replication_hassell_1985/article"
-  code:      "https://github.com/BIO6032/2018_replication_hassell_1985/code"
+  article:   "https://github.com/ReScience-Archives/Caron-Lessard-Wu-Poisot-2019/tree/master/article"
+  code:      "https://github.com/ReScience-Archives/Caron-Lessard-Wu-Poisot-2019/tree/master/code"
   data:
   notebook:
 Reproduction:
