@@ -1,4 +1,4 @@
-SOURCE   = Caron-Lessard-Wu-Poisot-2018
+SOURCE   = Caron-Lessard-Wu-Poisot-2019
 MDFILE   = $(SOURCE).md
 BIBFILE  = bibliography.bib
 TEXFILE  = $(SOURCE).tex
